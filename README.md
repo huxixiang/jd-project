@@ -1,2 +1,2 @@
 # jd-project
-com.jd
+jd 实时项目
